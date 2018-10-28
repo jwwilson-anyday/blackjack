@@ -1,0 +1,11 @@
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp1.1\blackjack.csprojAssemblyReference.cache
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp1.1\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp1.1\blackjack.AssemblyInfoInputs.cache
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp1.1\blackjack.AssemblyInfo.cs
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\bin\Debug\netcoreapp1.1\blackjack.deps.json
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\bin\Debug\netcoreapp1.1\blackjack.runtimeconfig.json
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\bin\Debug\netcoreapp1.1\blackjack.runtimeconfig.dev.json
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\bin\Debug\netcoreapp1.1\blackjack.dll
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\bin\Debug\netcoreapp1.1\blackjack.pdb
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp1.1\blackjack.dll
+C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp1.1\blackjack.pdb
