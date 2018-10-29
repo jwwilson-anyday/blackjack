@@ -6,44 +6,62 @@ namespace blackjack
     class Deck
     {
         // Decks should contain a collection of cards
-
-        public List<Card> Cards;
-
+        List<Card> Cards; // crates a list called Cards of objects (a card)
 
         public Deck()
         {
             this.Cards = new List<Card>();
-            Cards.Add(card.Name);
-            
-            {
-                Card card = new Card();
-                card.Suite = "Hearts";
-                card.Name = "2 of Hearts";
-                card.Value = 2;
 
-                Console.WriteLine(card.Name);
-
-            }
 
         }
-
         public void Print()
         {
+            {
+                int s = 0;
+                List<string> Suits = new List<string> { "Hearts", "Diamonds", "Clubs", "Spades" };
+                for (s = 0; s < 4; s++)
+                {
+                    for (int i = 0; i < 13; i++)
+                    {
 
+                        Card card = new Card();
+                        int CardValue = i + 2;
+                        string CardNameValue = CardValue.ToString();
 
+                        if (CardValue == 11)
+                        { CardNameValue = "Jack"; }
+                        if (CardValue == 12)
+                        { CardNameValue = "Queen"; }
+                        if (CardValue == 13)
+                        { CardNameValue = "King"; }
+
+                        if (CardValue > 10 && CardValue < 14)
+                        { CardValue = 10; }
+
+                        if (CardValue == 14)
+                        {
+                            CardValue = 11;
+                            CardNameValue = "Ace";
+                        }
+
+                        card.Suit = Suits[s];
+                        card.Value = CardValue;
+                        card.Name = ($"{CardNameValue} of {card.Suit}");
+                        Cards.Add(card);
+                    }
+                }
+                // for (int c = 0; c < 52; c++)
+                // { Console.WriteLine($"{Cards[c].Name} : A Value of {Cards[c].Value}"); }
+                foreach (Card card in Cards)
+                {
+                    Console.WriteLine($"{card.Name} : A Value of {card.Value}");
+                    Console.WriteLine(Cards);
+                }
+
+            }
         }
 
-        // Add a method to shuffle the deck
-        public void Shuffle()
-        {
+        
 
-        }
-
-        // Add a method to deal a card from the deck
-
-        // public Card Deal()
-        // {
-
-        // }
     }
 }

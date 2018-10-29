@@ -9,3 +9,14 @@ C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj
 C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp2.0\blackjack.AssemblyInfo.cs
 C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp2.0\blackjack.dll
 C:\Users\JWWILSON\Documents\Redwood Code Academy\003_blackjack\003_blackjack\obj\Debug\netcoreapp2.0\blackjack.pdb
+F:\Redwood Code Academy\Github\blackjack\obj\Debug\netcoreapp2.0\blackjack.csprojAssemblyReference.cache
+F:\Redwood Code Academy\Github\blackjack\obj\Debug\netcoreapp2.0\blackjack.csproj.CoreCompileInputs.cache
+F:\Redwood Code Academy\Github\blackjack\obj\Debug\netcoreapp2.0\blackjack.AssemblyInfoInputs.cache
+F:\Redwood Code Academy\Github\blackjack\obj\Debug\netcoreapp2.0\blackjack.AssemblyInfo.cs
+F:\Redwood Code Academy\Github\blackjack\obj\Debug\netcoreapp2.0\blackjack.dll
+F:\Redwood Code Academy\Github\blackjack\obj\Debug\netcoreapp2.0\blackjack.pdb
+F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.deps.json
+F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.runtimeconfig.json
+F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.runtimeconfig.dev.json
+F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.dll
+F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.pdb

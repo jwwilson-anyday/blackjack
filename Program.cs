@@ -11,31 +11,29 @@ namespace blackjack
 
         static void Main(string[] args)
         {
-            blackjack.Deck();
+            Deck deck = new Deck();
+            deck.Print();
 
+
+            Shuffle shuffle = new Shuffle();
+            shuffle.ShuffleDeck(cards);
 
             player = new Player();
             bank = new Player();
 
-            player.Chips = 100;
+            // player.Chips = 100;
 
 
 
-
-
-
-
-
-
-            while(player.Chips > 0)
-            {
-                PlayHand();
-            }
+            // while(player.Chips > 0)
+            // {
+            //     PlayHand();
+            // }
 
             // Let's make a blackjack program using a Deck, Card and Player class that we will create
 
             // First give the user an amount of chips they can use to bet
-            
+
             // For each hand, ask the user how much they want to be first
 
             // Use the Deck and Card classes to deal two cards to the user and two cards to the bank
@@ -51,7 +49,7 @@ namespace blackjack
 
         static void PlayHand()
         {
-           Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
