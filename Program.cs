@@ -14,10 +14,17 @@ namespace blackjack
             Deck deck = new Deck();
             deck.Print();
 
-
-            Shuffle shuffle = new Shuffle();
-            shuffle.ShuffleDeck(cards);
-
+            Card card = new Card();
+            List<Card> Cards = new List<Card>();
+            Shuffle.ShuffleDeck(Cards);
+            
+           foreach (Card mycard in Cards)
+                {
+                    Console.WriteLine($"{mycard.Name} : A Value of {mycard.Value}");
+                    //Console.WriteLine(Cards);
+                }
+          
+           
             player = new Player();
             bank = new Player();
 

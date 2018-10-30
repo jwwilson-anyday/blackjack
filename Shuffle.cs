@@ -9,6 +9,7 @@ namespace blackjack
        
             public static void ShuffleDeck<T>(this IList<T> list)
             {
+                List<Card> Cards = new List<Card>();
                 Random rng = new Random();
                 int n = list.Count;
                 while (n > 1)
@@ -18,6 +19,7 @@ namespace blackjack
                     T value = list[k];
                     list[k] = list[n];
                     list[n] = value;
+                    Console.WriteLine(k);
                 }
 
             }

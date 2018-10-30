@@ -55,7 +55,7 @@ namespace blackjack
                 foreach (Card card in Cards)
                 {
                     Console.WriteLine($"{card.Name} : A Value of {card.Value}");
-                    Console.WriteLine(Cards);
+                    //Console.WriteLine(Cards);
                 }
 
             }
