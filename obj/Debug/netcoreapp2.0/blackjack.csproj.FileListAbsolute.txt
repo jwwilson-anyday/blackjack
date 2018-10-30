@@ -20,3 +20,14 @@ F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.runti
 F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.runtimeconfig.dev.json
 F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.dll
 F:\Redwood Code Academy\Github\blackjack\bin\Debug\netcoreapp2.0\blackjack.pdb
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\bin\Debug\netcoreapp2.0\blackjack.deps.json
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\bin\Debug\netcoreapp2.0\blackjack.runtimeconfig.json
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\bin\Debug\netcoreapp2.0\blackjack.runtimeconfig.dev.json
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\bin\Debug\netcoreapp2.0\blackjack.dll
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\bin\Debug\netcoreapp2.0\blackjack.pdb
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\obj\Debug\netcoreapp2.0\blackjack.csprojAssemblyReference.cache
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\obj\Debug\netcoreapp2.0\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\obj\Debug\netcoreapp2.0\blackjack.AssemblyInfoInputs.cache
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\obj\Debug\netcoreapp2.0\blackjack.AssemblyInfo.cs
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\obj\Debug\netcoreapp2.0\blackjack.dll
+C:\Users\JWWILSON\Documents\Redwood Code Academy\GitHub\blackjack\blackjack\obj\Debug\netcoreapp2.0\blackjack.pdb

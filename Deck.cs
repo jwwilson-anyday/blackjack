@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace blackjack
 {
-    class Deck
+   public class Deck
     {
         // Decks should contain a collection of cards
         List<Card> Cards; // crates a list called Cards of objects (a card)
@@ -48,14 +48,17 @@ namespace blackjack
                         card.Value = CardValue;
                         card.Name = ($"{CardNameValue} of {card.Suit}");
                         Cards.Add(card);
+                        
                     }
                 }
+                int NumOfCards = Cards.Count;
+                Console.WriteLine(NumOfCards);
                 // for (int c = 0; c < 52; c++)
                 // { Console.WriteLine($"{Cards[c].Name} : A Value of {Cards[c].Value}"); }
                 foreach (Card card in Cards)
                 {
                     Console.WriteLine($"{card.Name} : A Value of {card.Value}");
-                    //Console.WriteLine(Cards);
+                 
                 }
 
             }

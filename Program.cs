@@ -5,26 +5,31 @@ namespace blackjack
 {
     class Program
     {
+         
         static public Player player;
         static public Player bank;
-
-
         static void Main(string[] args)
         {
+            List<Card> Cards = new List<Card>();            
+            Card card = new Card();
             Deck deck = new Deck();
+
             deck.Print();
 
-            Card card = new Card();
-            List<Card> Cards = new List<Card>();
             Shuffle.ShuffleDeck(Cards);
-            
-           foreach (Card mycard in Cards)
-                {
-                    Console.WriteLine($"{mycard.Name} : A Value of {mycard.Value}");
-                    //Console.WriteLine(Cards);
-                }
-          
-           
+
+            Console.WriteLine("I am here2");
+            int CardsProgramNumberOf = Cards.Count;
+            Console.WriteLine(CardsProgramNumberOf);
+
+
+            foreach (Card mycard in Cards)
+            {
+                Console.WriteLine($"{mycard.Name} : A Value of {mycard.Value}");
+                //Console.WriteLine(Cards);
+            }
+
+
             player = new Player();
             bank = new Player();
 
